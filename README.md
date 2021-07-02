@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kaic%20Pierre-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaic-pierre/)](https://www.linkedin.com/in/kaic-pierre/) 
 [![Gmail Badge](https://img.shields.io/badge/-kaicpierresilva2002@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaicpierresilva2002@gmail.com)](mailto:kaicpierresilva2002@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [**Hospital Alemão Oswaldo Cruz**](https://github.com/hospitalalemao) 
 - 🌱 I’m currently learning **Kotlin**
