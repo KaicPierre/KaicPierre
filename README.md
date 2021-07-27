@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [**Hospital Alemão Oswaldo Cruz**](https://github.com/hospitalalemao) 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Web Development**
 - 📫 Reach me by the E-mail **kaicpierresilva2002@gmail.com**
 - 📚 I'm Studying **Computer Science** at the University **Anhembi Morumbi**
 
