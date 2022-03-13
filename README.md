@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently **Junior FullStack Web Developer** at [**Cannect Life**](https://www.linkedin.com/company/cannect-saude/) 
-- 🚀 I’m currently **improving** at ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  and  ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🚀 I’m currently **improving** at **Node.js and React**
 - 📫 Reach me by the E-mail **kaicpierresilva2002@gmail.com**
 - 📚 I'm Studying **Computer Science** at the **University Anhembi Morumbi**
 
