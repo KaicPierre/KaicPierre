@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaic-pierre/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaicpierresilva2002@gmail.com)
 
 [![Kaic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaicPierre&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaicPierre&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently **Junior FullStack Web Developer** at [**Cannect Life**](https://www.linkedin.com/company/cannect-saude/) 
