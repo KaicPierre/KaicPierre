@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaicPierre&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark&hide_border=true&card_width=495&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently **Junior FullStack Web Developer** at [**Cannect Life**](https://www.linkedin.com/company/cannect-saude/) 
-- 🚀 I’m currently **improving** at **Node.js and React**
+- 🔭 I’m currently **Junior FullStack Web Developer** at [**Mutant**](https://www.linkedin.com/company/mutantbr) 
+- 🚀 I’m currently **improving** at **Node.js with Typescript**
 - 📫 Reach me by the E-mail **kaicpierresilva2002@gmail.com**
 - 📚 I'm Studying **Computer Science** at the **University Anhembi Morumbi**
 
