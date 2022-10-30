@@ -1,5 +1,5 @@
 ## Hello Mate 👋
-##### Kaic Pierre, 19 - Junior FullStack Developer
+##### Kaic Pierre, 20 - FullStack Developer
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaic-pierre/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaicpierresilva2002@gmail.com)
 
 [![Kaic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
