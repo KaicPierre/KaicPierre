@@ -1,15 +1,14 @@
 ## Hello Mate 👋
-##### Kaic Pierre, 20 - FullStack Developer
+##### Kaic Pierre - FullStack Developer
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaic-pierre/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaicpierresilva2002@gmail.com)
 
 [![Kaic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaicPierre&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaicPierre&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark&hide_border=true&card_width=495&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently **Junior FullStack Web Developer** at [**Mutant**](https://www.linkedin.com/company/mutantbr) 
-- 🚀 I’m currently **improving** at **Node.js with Typescript**
+- 🔭 I’m currently **Tech Lead and Sr Software Engineer ** at [**Telefonica Tech**](https://telefonicatech.com/en)
 - 📫 Reach me by the E-mail **kaicpierresilva2002@gmail.com**
-- 📚 I'm Studying **Computer Science** at the **University Anhembi Morumbi**
+- 📚 Bachelor degree in Computer Science
 
 ---
 ### 👨🏽‍💻Languages
